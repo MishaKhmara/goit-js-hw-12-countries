@@ -1,0 +1,39 @@
+
+
+body {
+    min-height: 100vh;
+    font-size: 30px;
+    background-color: rgba(252, 252, 252, 0.486);
+    margin: 0%;
+  }
+  
+  img {
+    display: flex;
+    width: 600px;
+    height: 300px;
+    margin-top: 40px;
+  }
+  .inputConteiner{
+    display: flex;
+    justify-content: center;
+  }
+  input {
+   
+   
+    font-size: 60px;
+    padding: 20px;
+    margin: 50px;
+    background-color: rgba(238, 248, 234, 0.384);
+  }
+  .country-name{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+   
+
+  }
+ 
+  .countries {
+    font-weight: bold;
+  }
+  
